@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Advanced_Machine_Learning_Project
 =======
 # AML_Project
@@ -10,4 +9,4 @@ To run the inference system unzip the `inference_engine.zip` in a GoogleDrive fo
 Set the coordinates and the year inside the main and run the code. 
 
 For more technical details read the [paper](Paper_Solar_Panels.pdf)
->>>>>>> e68ce8d (trasferm commit from polimi account to personal one)
+
